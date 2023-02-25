@@ -1,9 +1,9 @@
 # Swisscom SminGate Coding Challenge Backend Solution
 
 ## Solution API
+Clone this project and run this command
 ```
 dotnet run
-
 ```
 Link: http://localhost:5000/targetAsset
 
